@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/VCLGitPractice.iml" filepath="$PROJECT_DIR$/.idea/VCLGitPractice.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/VCLGitPractice.iml" filepath="$PROJECT_DIR$/VCLGitPractice.iml" />
+>>>>>>> bd9c78ade979ae4c1d206892ef55a53669e04ea3
     </modules>
   </component>
 </project>

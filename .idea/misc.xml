@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="CopyrightManager" default="" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK" />
   <component name="masterDetails">
@@ -41,6 +42,15 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+>>>>>>> bd9c78ade979ae4c1d206892ef55a53669e04ea3
           <splitter-proportions>
             <option name="proportions">
               <list>
