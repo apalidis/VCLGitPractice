@@ -14,3 +14,6 @@ Hngu
 lisa :)
 
 lisa likes to squash lions
+lisa loves to squash penguins too
+lisa drinks beer and wine
+
