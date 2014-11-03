@@ -7,4 +7,5 @@ Yay Life rocks
 
 Vivian Jin,
 JNGU,
-Hngu
+capture(pikachu);
+
