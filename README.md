@@ -11,4 +11,4 @@ Victoria Loewen,
 Paulo A,
 capture(pikachu);
 Hngu
-lisa ;)
+smile(lisa);
