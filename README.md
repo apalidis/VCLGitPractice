@@ -20,3 +20,5 @@ Paulo A,
 capture(pikachu);
 Hngu
 smile(lisa);
+Ida;
+Amon;
