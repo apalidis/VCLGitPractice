@@ -9,7 +9,7 @@ Start by making a change to this repo. It doesn't really matter what change you 
 
 ==============================
 
-Practice Repo for VCL Members to play around with git
+This is a practice Repo for VCL Members to play around with git.
 
 Yay Life rocks
 
